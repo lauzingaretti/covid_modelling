@@ -6,3 +6,4 @@ We follow a **SIR** and **SEIR** differential equation that models the spread of
 
 The link to our models is:
 
+https://lauzingaretti.github.io/covid_modelling/
